@@ -1,7 +1,7 @@
 <!-- Keep a Changelog guide -> https://keepachangelog.com -->
 
-# fps-exclude-dir Changelog
+# fps-exclude-angular-generated-dir Changelog
 
 ## [Unreleased]
 ### Added
-- Initial scaffold created from [IntelliJ Platform Plugin Template](https://github.com/JetBrains/intellij-platform-plugin-template)
+- Initial version
